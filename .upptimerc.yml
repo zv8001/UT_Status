@@ -5,17 +5,17 @@ repo: UT_Status # The name of this repository
 sites:
   - name: UT Site
     url: https://unknown-technologies.us
-  - name: Service #1 (MAIN)
+  - name: Service 1 (MAIN)
     url: https://api.unknown-technologies.us/
-  - name: Service #2 (SUB MAIN)
+  - name: Service 2 (SUB MAIN)
     url: https://api.unknown-technologies.us/booster/health
-  - name: Service #3 (SUB MAIN)
+  - name: Service 3 (SUB MAIN)
     url: https://transcript.unknown-technologies.us/
-  - name: Service #4 (SUB MAIN)
+  - name: Service 4 (SUB MAIN)
     url: https://api.unknown-technologies.us/console/
-  - name: Service #5 (SUB MAIN)
+  - name: Service 5 (SUB MAIN)
     url: https://api.unknown-technologies.us/gbs/health
-  - name: Service #6 (SUB MAIN)
+  - name: Service 6 (SUB MAIN)
     url: https://gbs.unknown-technologies.us/
 
 status-website:
@@ -23,15 +23,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.unknown-technologies.us
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.grapesjs.com/workspaces/cmhpistme05if12ma87sbd7ql/assets/794ea2b7-44ae-4399-b686-ba0b0992e564__ut-logo-v4-transp.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: UT Home
+      href: https://unknown-technologies.us/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
