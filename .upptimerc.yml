@@ -9,13 +9,13 @@ sites:
     url: https://api.unknown-technologies.us/
   - name: Service 2 (SUB MAIN)
     url: https://api.unknown-technologies.us/booster/health
-  - name: Service 3 (SUB MAIN)
+  - name: Service 3 (Transcript System)
     url: https://transcript.unknown-technologies.us/
-  - name: Service 4 (SUB MAIN)
+  - name: Service 4 (Web Console)
     url: https://api.unknown-technologies.us/console/
-  - name: Service 5 (SUB MAIN)
+  - name: Service 5 (GBS api)
     url: https://api.unknown-technologies.us/gbs/health
-  - name: Service 6 (SUB MAIN)
+  - name: Service 6 (gbs webpanel)
     url: https://gbs.unknown-technologies.us/
 
 status-website:
