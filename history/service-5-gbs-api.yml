@@ -1,7 +1,7 @@
 url: https://api.unknown-technologies.us/gbs/health
-status: up
-code: 200
-responseTime: 96
-lastUpdated: 2026-05-05T23:46:33.642Z
+status: down
+code: 530
+responseTime: 61
+lastUpdated: 2026-05-06T06:19:24.047Z
 startTime: 2026-03-25T00:25:40.342Z
 generator: Upptime <https://github.com/upptime/upptime>
